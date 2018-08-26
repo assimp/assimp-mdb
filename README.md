@@ -1,5 +1,5 @@
 # The Assimp-Model-Database
-The Asset-IMporter-Lib model database - a collection of free models.
+The Asset-Importer-Lib model database - a collection of free models.
 
 # How to contribute
 - ToDo
