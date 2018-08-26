@@ -1,1 +1,1 @@
-The Spider-model from the ZFXCE-tem.
+The Spider-model from the ZFXCE-team.
