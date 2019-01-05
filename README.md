@@ -7,6 +7,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the model
 # List of awesome free Model-Databases
 - [TurboSquid free mode database](https://www.turbosquid.com/Search/3D-Models/free) - 3D models for free.
 - [Sketchfab](https://sketchfab.com) - Publish ad find 3D-models online
+- [3MF-Models for free](https://www.cgtrader.com/3d-models/ext/3mf) - Download 3D Manufacturing File (3MF) file format 3D assets
 
 # How to contribute
 - Clone from this repository 
