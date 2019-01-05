@@ -5,6 +5,7 @@ The Asset-Importer-Lib model database - a collection of free models.
 See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the models provided by us.
 
 # List of awesome free Model-Databases
+- [The assimp test models](https://github.com/assimp/assimp/tree/master/test/models) - All the test models provided by the Asset-Importer-Lib
 - [TurboSquid free mode database](https://www.turbosquid.com/Search/3D-Models/free) - 3D models for free.
 - [Sketchfab](https://sketchfab.com) - Publish ad find 3D-models online
 - [glTF Tests](https://github.com/KhronosGroup/glTF-Sample-Models) - The glFT test model database from the Kronos-Group, includes 1.0 and 2.0 models.
