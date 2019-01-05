@@ -11,7 +11,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the model
 - [The 3MF-samples](https://github.com/3MFConsortium/3mf-samples) - The 3MF Samples repository.
 
 # List of commercial Model-Databases
-- [3MF-Models for free](https://www.cgtrader.com/3d-models/ext/3mf) - Download 3D Manufacturing File (3MF) file format 3D assets
+- [3MF-Models for money](https://www.cgtrader.com/3d-models/ext/3mf) - Download 3D Manufacturing File (3MF) file format 3D assets
 
 # How to contribute
 - Clone from this repository 
