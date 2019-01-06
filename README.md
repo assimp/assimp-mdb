@@ -14,6 +14,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [glTF Tests](https://github.com/KhronosGroup/glTF-Sample-Models) - The glFT test model database from the Kronos-Group, includes 1.0 and 2.0 models.
 - [The 3MF-samples](https://github.com/3MFConsortium/3mf-samples) - The 3MF Samples repository.
 - [Free3D Model database](https://free3d.com/) - Free 3D-models to download.
+- [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - The famous Standforf 3D Scanning Repository, contains a lot of widely used models like the bunny or the dragon.
 
 ## List of commercial Model-Databases
 - [3MF-Models for money](https://www.cgtrader.com/3d-models/ext/3mf) - Download 3D Manufacturing File (3MF) file format 3D assets
