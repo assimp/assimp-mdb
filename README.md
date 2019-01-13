@@ -9,6 +9,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 
 ## List of awesome free Model-Databases
 - [The assimp test models](https://github.com/assimp/assimp/tree/master/test/models) - All the test models provided by the Asset-Importer-Lib
+- [Open3DModels](http://open3dmodel.com/) - Another free model database containing a lo of models, scenes and mre in different formmats
 - [TurboSquid free mode database](https://www.turbosquid.com/Search/3D-Models/free) - 3D models for free.
 - [Sketchfab](https://sketchfab.com) - Publish ad find 3D-models online
 - [glTF Tests](https://github.com/KhronosGroup/glTF-Sample-Models) - The glFT test model database from the Kronos-Group, includes 1.0 and 2.0 models.
