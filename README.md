@@ -28,7 +28,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [glTF-Toolkit](https://github.com/Microsoft/glTF-Toolkit) - A collection of tools for modifying and optimizing glTF assets
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
-- [https://github.com/IfcOpenShell/IfcOpenShell](IfcOpenShell) - Open source IFC library and geometry engine
+- [IfcOpenShell](IfcOpenShell) - Open source IFC library and geometry engine
 
 ## How to contribute
 - Clone from this repository 
