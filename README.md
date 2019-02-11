@@ -24,7 +24,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer
 - [FBX](https://github.com/jskorepa/fbx) - C++ Library for reading and writing FBX files
 - [StepCode](https://github.com/stepcode/stepcode) - STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding). http://stepcode.org
-
+- [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 ## How to contribute
 - Clone from this repository 
 - Prepare a branch with your model in it. Place the model at the model-bd, select the name of the format in the folder and create another
