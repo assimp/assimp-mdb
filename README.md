@@ -22,6 +22,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 ## List of awesome model importer libraries
 - [The Asset-Importer-Lib](http://www.assimp.org/) - Open Asset Import Library (short name: Assimp) is a portable Open Source library to import various well-known 3D model formats in a uniform manner. The most recent version also knows how to export 3d files and is therefore suitable as a general-purpose 3D model converter.
 - [OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer
+- [FBX](https://github.com/jskorepa/fbx) - C++ Library for reading and writing FBX files
 - [StepCode](https://github.com/stepcode/stepcode) - STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding). http://stepcode.org
 
 ## How to contribute
