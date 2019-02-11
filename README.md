@@ -29,6 +29,8 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [glTF-Toolkit](https://github.com/Microsoft/glTF-Toolkit) - A collection of tools for modifying and optimizing glTF assets
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
 - [IfcOpenShell](IfcOpenShell) - Open source IFC library and geometry engine
+- [Meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
+- [lib3mf](https://github.com/3MFConsortium/lib3mf) - Lib3MF is the reference implementation of the 3D Manufacturing Format file standard http://3mf.io
 
 ## How to contribute
 - Clone from this repository 
