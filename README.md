@@ -21,6 +21,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 
 ## List of awesome model importer libraries
 - [The Asset-Importer-Lib](http://www.assimp.org/) - Open Asset Import Library (short name: Assimp) is a portable Open Source library to import various well-known 3D model formats in a uniform manner. The most recent version also knows how to export 3d files and is therefore suitable as a general-purpose 3D model converter.
+- [OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer
 
 ## How to contribute
 - Clone from this repository 
