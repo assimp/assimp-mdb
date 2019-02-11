@@ -31,6 +31,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [IfcOpenShell](IfcOpenShell) - Open source IFC library and geometry engine
 - [Meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 - [lib3mf](https://github.com/3MFConsortium/lib3mf) - Lib3MF is the reference implementation of the 3D Manufacturing Format file standard http://3mf.io
+- [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) - C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
 
 ## How to contribute
 - Clone from this repository 
