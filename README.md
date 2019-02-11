@@ -26,6 +26,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [fbx](https://github.com/origamicomet/fbx) -  Single-file binary FBX importer.
 - [StepCode](https://github.com/stepcode/stepcode) - STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP). It generates C++ and Python from EXPRESS (10303-11) schemas. The code is capable of reading and writing STEP Part 21 exchange files. It also utilizes Parts 22 and 23 (SDAI and its C++ binding). http://stepcode.org
 - [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
+- [glTF-Toolkit](https://github.com/Microsoft/glTF-Toolkit) - A collection of tools for modifying and optimizing glTF assets
 
 ## How to contribute
 - Clone from this repository 
