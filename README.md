@@ -33,6 +33,8 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 - [lib3mf](https://github.com/3MFConsortium/lib3mf) - Lib3MF is the reference implementation of the 3D Manufacturing Format file standard http://3mf.io
 - [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) - C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
 
+## List of awesome model / asset utility libraries and applications
+- [binary-gltf-utils](https://github.com/Qantas94Heavy/binary-gltf-utils) - Bundles glTF models, images, shaders and other assets into a Binary glTF (.glb) file.
 ## How to contribute
 - Clone from this repository 
 - Prepare a branch with your model in it. Place the model at the model-bd, select the name of the format in the folder and create another
