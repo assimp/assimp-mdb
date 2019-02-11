@@ -6,6 +6,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 
 ## The Model knowledge base
 - [The Asset-Importer-Lib knowledge wiki](https://github.com/assimp/assimp/wiki/The-asset-knowledge-base) - The collection of specs collected by the Asset-Importer-Library contributors.
+- [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 
 ## List of awesome free and commercial Model-Databases
 - [The assimp test models](https://github.com/assimp/assimp/tree/master/test/models) - All the test models provided by the Asset-Importer-Lib
