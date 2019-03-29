@@ -36,6 +36,7 @@ See https://github.com/assimp/assimp-mdb/tree/master/model-db/ to find the free 
 
 ## List of awesome model / asset utility libraries and applications
 - [binary-gltf-utils](https://github.com/Qantas94Heavy/binary-gltf-utils) - Bundles glTF models, images, shaders and other assets into a Binary glTF (.glb) file.
+- [Blender](https://www.blender.org/) - A free and OS-based 3D-modeling software for modeling, animations and more.
 - [Free-CAD](https://www.freecadweb.org/) - A free and OS-based CAD system.
 
 ## How to contribute
