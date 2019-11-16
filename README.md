@@ -1,9 +1,9 @@
 # The Assimp-Model-Database
-The Asset-Importer-Lib model database - a collection of free models, links to common model-databases, free or commercials,
-other importer libraries and model specifications. If you need to start working on a special format you can use this list to find useful resources.
+The Asset-Importer-Lib Model-Database - a collection of free models, links to common model-databases, free or commercials,
+other importer libraries and model specifications. If you need to start working on a special format you can use this list to find useful resources (WIP).
 
 ## The Model-Database
-See [Model-Database](https://github.com/assimp/assimp-mdb/tree/master/model-db/) to find the free models provided by us.
+See [Model-Database](https://github.com/assimp/assimp-mdb/tree/master/model-db/) to find the free models provided by us. Feel free to provide yours!
 
 ## The Model knowledge base
 - [The Asset-Importer-Lib knowledge wiki](https://github.com/assimp/assimp/wiki/The-asset-knowledge-base) - The collection of specs collected by the Asset-Importer-Library contributors.
