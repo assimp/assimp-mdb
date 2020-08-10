@@ -20,6 +20,7 @@ See [Model-Database](https://github.com/assimp/assimp-mdb/tree/master/model-db/)
 - [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/) - The famous Standforf 3D Scanning Repository, contains a lot of widely used models like the bunny or the dragon.
 - [3MF-Models for money](https://www.cgtrader.com/3d-models/ext/3mf) - Download 3D Manufacturing File (3MF) file format 3D assets
 - [CadNav](http://www.cadnav.com/) - CADnav is the online 3D Models Library for CGI graphic designers and CAD/CAM/CAE engineers
+- [Hum3D](https://hum3d.com/) - the largest source for vehicle 3D models
 
 ## List of awesome model importer libraries
 - [The Asset-Importer-Lib](http://www.assimp.org/) - Open Asset Import Library (short name: Assimp) is a portable Open Source library to import various well-known 3D model formats in a uniform manner. The most recent version also knows how to export 3d files and is therefore suitable as a general-purpose 3D model converter.
