@@ -35,7 +35,7 @@ See [Model-Database](https://github.com/assimp/assimp-mdb/tree/master/model-db/)
 - [Meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 - [lib3mf](https://github.com/3MFConsortium/lib3mf) - Lib3MF is the reference implementation of the 3D Manufacturing Format file standard http://3mf.io
 - [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) - C++ library and programs that demonstrate mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
-- [Sharp.glTF](https://github.com/vpenades/SharpGLTF) - A glFT importer/exporter for .Net
+- [SharpGLTF](https://github.com/vpenades/SharpGLTF) - A glFT importer/exporter for .Net
 
 ## List of awesome model / asset utility libraries and applications
 - [binary-gltf-utils](https://github.com/Qantas94Heavy/binary-gltf-utils) - Bundles glTF models, images, shaders and other assets into a Binary glTF (.glb) file.
