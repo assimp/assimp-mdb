@@ -22,6 +22,7 @@ See [Model-Database](https://github.com/assimp/assimp-mdb/tree/master/model-db/)
 - [CadNav](http://www.cadnav.com/) - CADnav is the online 3D Models Library for CGI graphic designers and CAD/CAM/CAE engineers
 - [Hum3D](https://hum3d.com/) - the largest source for vehicle 3D models- 
 - [The NASA 3D-Resources](https://github.com/nasa/NASA-3D-Resources) - The NASA 3D-models
+- [The Models Resource](https://www.models-resource.com) - Models ripped from video games.
 
 ## List of awesome model importer libraries
 - [The Asset-Importer-Lib](http://www.assimp.org/) - Open Asset Import Library (short name: Assimp) is a portable Open Source library to import various well-known 3D model formats in a uniform manner. The most recent version also knows how to export 3d files and is therefore suitable as a general-purpose 3D model converter.
